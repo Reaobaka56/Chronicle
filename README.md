@@ -16,7 +16,7 @@ AI-powered changelog generation for GitHub releases.
 ### 1. Clone & Configure
 
 ```bash
-cd pr_changelog_mvp
+cd Chronicle
 cp .env.example .env
 # Edit .env with your credentials
 ```
@@ -117,14 +117,6 @@ pr_changelog_mvp/
 | `STRIPE_WEBHOOK_SECRET` | For billing | Stripe webhook secret |
 | `RESEND_API_KEY` | For email | Resend API key |
 
-## 4-Week Build Plan
-
-| Week | Focus | Deliverable |
-|------|-------|-------------|
-| 1 | GitHub App + webhook plumbing | Merged PRs auto-land in Postgres |
-| 2 | AI generation + GitHub write-back | Tag push auto-drafts GitHub Release |
-| 3 | Public page + Slack + email | Release generates public page + notifications |
-| 4 | Dashboard + Stripe + Marketplace | End-to-end flow with payments |
 
 ## License
 
