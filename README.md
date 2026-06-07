@@ -1,6 +1,6 @@
-# PR Changelog Generator
+# Chronicle
 
-AI-powered changelog generation for GitHub releases. Built with FastAPI + Next.js + Gemini 1.5 Pro.
+AI-powered changelog generation for GitHub releases. 
 
 ## Features
 
