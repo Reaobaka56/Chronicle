@@ -9,7 +9,6 @@ AI-powered changelog generation for GitHub releases.
 - **Edit Before Publish** — Split-screen markdown editor with live preview
 - **Public Changelog Pages** — Auto-generated, SEO-friendly pages at `/changelog/{owner}/{repo}`
 - **Slack & Email Notifications** — Auto-post to Slack, notify email subscribers on each release
-- **Stripe Billing** — Free (1 repo) → Pro $12/mo → Team $39/mo
 
 ## Quick Start
 
